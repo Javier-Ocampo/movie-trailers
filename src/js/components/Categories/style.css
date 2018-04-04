@@ -1,0 +1,24 @@
+.categories {
+  overflow: hidden;
+  padding: 20px 0 20px 20px;
+  background: white;
+}
+
+.category {
+  margin-bottom: 1em;
+}
+
+.category-title {
+  text-transform: uppercase;
+  font-size: 20px;
+  color: #3f546c;
+  margin: 10px 0 20px 0;
+  letter-spacing: 2px;
+  font-weight: bold;
+}
+.category-description {
+  color: #888b8e;
+  font-weight: 300;
+  margin: 0;
+  font-size: 14px;
+}

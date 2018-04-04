@@ -1,0 +1,146 @@
+{
+  "categories": [
+    {
+      "id": "1",
+      "description": "Highlights",
+      "title": "Action",
+      "playlist": [
+        {
+          "title": "DEADPOOL 2",
+          "author": "20th Century Fox",
+          "type": "video",
+          "cover": "./images/covers/deadpool.jpg",
+          "src": "http://movietrailers.javierocampo.net/trailers/deadpool2.mp4",
+          "id": "1"
+        },
+        {
+          "title": "THE HOUSE WITH A CLOCK IN ITS WALLS",
+          "author": "Universal Studios",
+          "type": "video",
+          "cover": "./images/covers/house.jpg",
+          "src": "http://movietrailers.javierocampo.net/trailers/house.mp4",
+          "id": "2"
+        },
+        {
+          "title": "THE TITAN",
+          "author": "Netflix",
+          "type": "video",
+          "cover": "./images/covers/titan.jpg",
+          "src": "http://movietrailers.javierocampo.net/trailers/titan.mp4",
+          "id": "3"
+        },
+        {
+          "title": "Avengers: Infinity War",
+          "author": "Marvel Entertainment",
+          "type": "video",
+          "cover": "./images/covers/avengers.jpg",
+          "src": "http://movietrailers.javierocampo.net/trailers/avengers.mp4",
+          "id": "4"
+        },
+        {
+          "title": "Cobra Kai",
+          "author": "Youtube",
+          "type": "video",
+          "cover": "./images/covers/cobrakai.jpg",
+          "src": "http://movietrailers.javierocampo.net/trailers/cobrakai.mp4",
+          "id": "5"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "description": "Next releases",
+      "title": "Thrillers",
+      "playlist": [
+        {
+          "title": "The Darkest Minds",
+          "author": "21 Laps Entertainment",
+          "type": "video",
+          "cover": "./images/covers/darkest.jpg",
+          "src": "http://movietrailers.javierocampo.net/trailers/darknes.mp4",
+          "id": "6"
+        },
+        {
+          "title": "Lost In Space",
+          "author": "Netflix",
+          "type": "video",
+          "cover": "./images/covers/lostinspace.jpg",
+          "src": "http://movietrailers.javierocampo.net/trailers/lostinspace.mp4",
+          "id": "7"
+        },
+        {
+          "title": "Mission Impossible: Fallout",
+          "author": "Paramount Pictures",
+          "type": "video",
+          "cover": "./images/covers/missionimpossible.jpg",
+          "src": "http://movietrailers.javierocampo.net/trailers/missionimpossible.mp4",
+          "id": "8"
+        },
+        {
+          "title": "Pacific Rim 2",
+          "author": "Legendary Pictures",
+          "type": "video",
+          "cover": "./images/covers/pacificrim.jpg",
+          "src": "http://movietrailers.javierocampo.net/trailers/pacificrim.mp4",
+          "id": "9"
+        },
+        {
+          "title": "Rampage",
+          "author": "New Line Cinema",
+          "type": "video",
+          "cover": "./images/covers/rampage.jpg",
+          "src": "http://movietrailers.javierocampo.net/trailers/rampage.mp4",
+          "id": "10"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "description": "This Year",
+      "title": "Science Fiction",
+      "playlist": [
+        {
+          "title": "Ready Play One",
+          "author": "Crown Publishers",
+          "type": "video",
+          "cover": "./images/covers/readyplayone.jpg",
+          "src": "http://movietrailers.javierocampo.net/trailers/readyplay.mp4",
+          "id": "11"
+        },
+        {
+          "title": "Solo: A Star Wars Story",
+          "author": "Lucas Art",
+          "type": "video",
+          "cover": "./images/covers/solo.jpg",
+          "src": "http://movietrailers.javierocampo.net/trailers/solo.mp4",
+          "id": "12"
+        },
+        {
+          "title": "Terminal",
+          "author": "Image Entertainment",
+          "type": "video",
+          "cover": "./images/covers/terminal.jpg",
+          "src": "http://movietrailers.javierocampo.net/trailers/terminal.mp4",
+          "id": "13"
+        },
+        {
+          "title": "Venom",
+          "author": "Marvel Entertainment",
+          "type": "video",
+          "cover": "./images/covers/venom.jpg",
+          "src": "http://movietrailers.javierocampo.net/trailers/venom.mp4",
+          "id": "14"
+        },
+        {
+          "title": "World War Z 2",
+          "author": "Universal",
+          "type": "video",
+          "cover": "./images/covers/worldwarz2.jpg",
+          "src": "http://movietrailers.javierocampo.net/trailers/worldwarz2",
+          "id": "15"
+        }
+      ]
+    }
+  ]
+}
+
