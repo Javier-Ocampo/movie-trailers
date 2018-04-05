@@ -1,7 +1,7 @@
 .volume {
   display: flex;
   align-items: center;
-  padding: 0 15px;
+  padding: 0 10px;
   border: none;
   background: transparent;
   cursor: pointer;
@@ -18,9 +18,9 @@
   left: 50px;
   height: 50px;
   display: none;
-  background: rgba(0,0,0,.7);
+  background: rgba(0,0,0,.4);
   padding-right: 20px;
-  border-radius: 0 20px 20px 0;
+  border-radius: 0 5px 5px 0;
 }
 .volume input {
   cursor: grab;

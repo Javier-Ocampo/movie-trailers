@@ -1,11 +1,16 @@
 .videoPlayerControls {
   display: flex;
   position: absolute;
-  background: rgba(0,0,0,.7);
+  background: rgba(0,0,0,.4);
   bottom: 10px;
   left: 10px;
   right: 10px;
   z-index: 2;
-  border-radius: 20px;
+  border-radius: 5px;
   padding: 0 10px;
+  opacity: 0;
+}
+
+.videoPlayer:hover .videoPlayerControls {
+  opacity: 1;
 }
