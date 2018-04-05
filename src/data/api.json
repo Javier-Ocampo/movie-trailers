@@ -6,7 +6,7 @@
       "title": "Action",
       "playlist": [
         {
-          "title": "DEADPOOL 2",
+          "title": "Deadpool 2",
           "author": "20th Century Fox",
           "type": "video",
           "cover": "./images/covers/deadpool.jpg",
@@ -14,7 +14,7 @@
           "id": "1"
         },
         {
-          "title": "THE HOUSE WITH A CLOCK IN ITS WALLS",
+          "title": "The House with a Clock",
           "author": "Universal Studios",
           "type": "video",
           "cover": "./images/covers/house.jpg",
@@ -22,7 +22,7 @@
           "id": "2"
         },
         {
-          "title": "THE TITAN",
+          "title": "The Titan",
           "author": "Netflix",
           "type": "video",
           "cover": "./images/covers/titan.jpg",

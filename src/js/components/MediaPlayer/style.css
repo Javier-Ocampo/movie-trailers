@@ -1,14 +1,15 @@
 .media {
+  position: relative;
   cursor: pointer;
-  margin-right: 15px;
+  margin: 20px 15px;
   display: inline-block;
   width: 260px;
-  vertical-align: top;
-  margin-bottom: 15px;
+  vertical-align: middle;
 }
 
-.media:hover .Media-cover {
-  box-shadow: 0 0 10px rgba(0,0,0,.3);
+.media:hover .media-cover {
+  transform: scale(1.1);
+  z-index: 99999;
 }
 
 .media-cover {
@@ -30,4 +31,19 @@
 .media-author {
   font-size: 12px;
   margin: 5px 0 0 0;
+}
+.media-cover span {
+  position: absolute;
+  width: 210px;
+  height: 336px;
+  top: 0;
+  left: 0;
+  opacity: 0;
+  padding: 25px;
+  background: rgba(3, 3, 3, 0.7);
+  color: white;
+}
+
+.media-cover:hover span {
+  opacity: 1;
 }

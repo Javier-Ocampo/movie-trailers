@@ -1,5 +1,6 @@
 import { Component } from 'react'
 import { createPortal } from 'react-dom'
+import PropTypes from 'prop-types'
 
 class Modal extends Component {
   render () {
@@ -8,6 +9,10 @@ class Modal extends Component {
       document.getElementById('modal')
     )
   }
+}
+
+Modal.propTypes = {
+  children: PropTypes.object
 }
 
 export default Modal

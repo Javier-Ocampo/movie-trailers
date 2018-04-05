@@ -1,5 +1,6 @@
 import React from 'react'
 import PropTypes from 'prop-types'
+import MovieDetails from './MovieDetails'
 import './style.css'
 
 const MediaPlayer = ({
@@ -18,6 +19,7 @@ const MediaPlayer = ({
         height={386}
         className='media-image'
       />
+      <MovieDetails title={title} />
     </div>
     <h3 className='media-title'>{title}</h3>
     <p className='media-author'>{author}</p>
